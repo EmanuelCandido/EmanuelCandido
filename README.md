@@ -1,8 +1,7 @@
 # Olá, eu sou o Emanuel Cândido! 👋
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, focado em construir soluções eficientes. Atualmente, trabalho com desenvolvimento de software e busco sempre aprimorar minhas habilidades em programação e arquitetura de sistemas.
-
+Sou estudante de Engenharia de Software na Universidade Santo Agostinho (UNIFSA) em Teresina/PI. Sou movido por novos desafios e estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos, aprimorar minhas habilidades de desenvolvimento e contribuir com soluções eficientes.
 ---
 
 ## 🛠️ Tecnologias e Linguagens
