@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias e Linguagens
 Aqui estão as principais linguagens e tecnologias que utilizo nos meus projetos:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,py,postgres)](https://skillicons.dev)
 
 ---
 
