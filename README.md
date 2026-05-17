@@ -14,5 +14,5 @@ Aqui estão as principais linguagens e tecnologias que utilizo nos meus projetos
 ## 🌐 Conecte-se Comigo
 Sinta-se à vontade para acompanhar meus projetos ou entrar em contato para trocarmos uma ideia:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/emanuel-cândido-48a7a8357)
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emanuel-c%C3%A2ndido-48a7a8357/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_emanuel_1/)
