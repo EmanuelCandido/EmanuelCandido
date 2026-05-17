@@ -23,18 +23,11 @@ Aqui estão as principais linguagens e tecnologias que utilizo nos meus projetos
 Sinta-se à vontade para acompanhar meus projetos ou entrar em contato para trocarmos uma ideia:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <a href="http://www.linkedin.com/in/emanuel-c%C3%A2ndido-48a7a8357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/_emanuel_1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
-</div>
