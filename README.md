@@ -1,4 +1,4 @@
-# Olá, eu sou Emanuel Cândido
+# Emanuel Cândido | Backend Developer em construção
 
 Estudante de Engenharia de Software na Universidade Santo Agostinho (UNIFSA), em Teresina/PI, com interesse em desenvolvimento de software, aplicações web, APIs e bancos de dados. Gosto de transformar aprendizado em projetos práticos e estou sempre buscando evoluir tecnicamente para criar soluções úteis, bem estruturadas e eficientes.
 
