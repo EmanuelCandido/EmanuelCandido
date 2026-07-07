@@ -1,0 +1,9 @@
+<svg width="350" height="200" viewBox="0 0 350 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Estatisticas do GitHub</title>
+  <desc id="desc">Card temporario ate a primeira execucao do GitHub Actions.</desc>
+  <rect width="350" height="200" rx="6" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="349" height="199" rx="5.5" stroke="#30363d"/>
+  <text x="24" y="58" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Estatisticas</text>
+  <text x="24" y="94" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Geracao automatica</text>
+  <text x="24" y="122" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="14">via GitHub Actions</text>
+</svg>

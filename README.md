@@ -24,8 +24,12 @@ Estudante de Engenharia de Software na Universidade Santo Agostinho (UNIFSA), em
 ## GitHub
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelCandido&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emanuel Cândido" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCandido&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Emanuel Cândido" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil GitHub de Emanuel Cândido" />
+</div>
+
+<div align="left">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas nos repositórios de Emanuel Cândido" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub de Emanuel Cândido" />
 </div>
 
 ---

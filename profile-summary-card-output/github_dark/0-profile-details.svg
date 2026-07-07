@@ -1,0 +1,9 @@
+<svg width="700" height="200" viewBox="0 0 700 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Resumo do perfil GitHub</title>
+  <desc id="desc">Card temporario ate a primeira execucao do GitHub Actions.</desc>
+  <rect width="700" height="200" rx="6" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="699" height="199" rx="5.5" stroke="#30363d"/>
+  <text x="32" y="74" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Resumo do GitHub</text>
+  <text x="32" y="112" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Este card sera gerado automaticamente pelo GitHub Actions.</text>
+  <text x="32" y="144" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="15">Apos a primeira execucao, os dados reais aparecem aqui.</text>
+</svg>
