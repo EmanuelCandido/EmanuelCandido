@@ -24,4 +24,60 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: ${{ github.ref_name }}
           UTC_OFFSET: -3
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Create Portuguese cards
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          base = Path("profile-summary-card-output/github_dark")
+          cards = {
+              "0-profile-details.svg": "0-profile-details-pt.svg",
+              "1-repos-per-language.svg": "1-repos-per-language-pt.svg",
+              "3-stats.svg": "3-stats-pt.svg",
+          }
+
+          replacements = {
+              "Contributions on GitHub": "Contribuições no GitHub",
+              "Public Repos": "Repositórios públicos",
+              "Top Languages by Repo": "Linguagens por Repositório",
+              "Stats": "Estatísticas",
+              "Total Stars:": "Total de estrelas:",
+              "Total Commits:": "Total de commits:",
+              "Total PRs:": "Total de PRs:",
+              "Total Issues:": "Total de issues:",
+              "Contributed to:": "Contribuiu em:",
+              "contributions in the last year": "contribuições no último ano",
+          }
+
+          def translate(text: str) -> str:
+              for source, target in replacements.items():
+                  text = text.replace(source, target)
+
+              text = re.sub(r"Joined GitHub 1 year ago", "Entrou no GitHub há 1 ano", text)
+              text = re.sub(r"Joined GitHub ([0-9]+) years ago", r"Entrou no GitHub há \1 anos", text)
+              text = re.sub(r"Joined GitHub 1 month ago", "Entrou no GitHub há 1 mês", text)
+              text = re.sub(r"Joined GitHub ([0-9]+) months ago", r"Entrou no GitHub há \1 meses", text)
+              return text
+
+          for source_name, target_name in cards.items():
+              source = base / source_name
+              target = base / target_name
+              target.write_text(translate(source.read_text(encoding="utf-8")), encoding="utf-8")
+          PY
+
+      - name: Commit generated cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "No card changes to commit."
+          else
+            git commit -m "Generate profile summary cards"
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
