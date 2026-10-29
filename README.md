@@ -82,4 +82,21 @@ Extensão: *Git e GitHub na Prática* (UNIFSA).
 **Na pesquisa:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Flyway, Docker,
 JUnit, GitHub Actions, Git.
 
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,githubactions,git" alt="Java, Spring, PostgreSQL, Docker, GitHub Actions e Git" />
+
 **Também uso:** TypeScript, React, Vite, Python, Flask, Firebase, Three.js, Tauri e Rust, Kotlin.
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,py,flask,firebase,threejs,tauri,rust,kotlin" alt="TypeScript, React, Vite, Python, Flask, Firebase, Three.js, Tauri, Rust e Kotlin" />
+
+### Atividade no GitHub
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details-pt.svg" alt="Resumo do perfil no GitHub" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language-pt.svg" alt="Linguagens mais usadas nos repositórios" /> <img src="./profile-summary-card-output/github_dark/3-stats-pt.svg" alt="Estatísticas do GitHub" />
+
+### Contato
+
+<a href="https://www.linkedin.com/in/emanuelcandidodasilvalima/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:emanoelcandidolima@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" /></a>
+<a href="https://github.com/EmanuelCandido"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://www.instagram.com/_emanuel_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
